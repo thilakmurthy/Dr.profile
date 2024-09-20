@@ -12,7 +12,7 @@ const Footer = () => {
       <footer>
         <div className='container padding'>
           <div className='box logo'>
-            <h1>DR RAJU R</h1>
+            <h1>DR Thilak K G</h1>
             <span>Neurosurgery</span>
             <p>Dr. Raju R is one of the best & top-rated General, Laparoscopic Surgeon & Laser Proctologist in Bangalore. He is also a certified endoscopist and bariatric surgeon.</p>
 
